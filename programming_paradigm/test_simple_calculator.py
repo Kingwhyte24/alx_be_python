@@ -8,7 +8,7 @@ class TestSimpleCalculator(unittest.TestCase):
         """
         self.calculator = SimpleCalculator()
 
-    def test_add(self):
+    def test_addition(self):
         """
         Test the add method with various cases.
         """
